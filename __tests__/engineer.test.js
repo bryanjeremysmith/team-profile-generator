@@ -43,5 +43,8 @@ test('gets GitHub', () => {
 test('gets role of employee', () => {
     const engineer = new Engineer('BJ Smith', 1, 'bjsmith@gmail.com', 'bryanjeremysmith');
 
+    expect(engineer.getRole()).not.toEqual('Employee');
+    expect(engineer.getRole()).not.toEqual('Manager');
     expect(engineer.getRole()).toEqual('Engineer');
+    expect(engineer.getRole()).not.toEqual('Intern');
 }); 
