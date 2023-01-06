@@ -1,3 +1,30 @@
+# Team Profile Generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Description
+
+This will generate a Team's Profile based on inputs. A team will consist of one manager, and one or more Engineers and Interns.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+
+## Installation
+
+git clone https://github.com/bryanjeremysmith/team-profile-generator.git
+
+## Usage
+
+<pre>node index.js</pre>
+
+## License 
+
+This project is covered under the following license: 
+
 MIT License
 
 Copyright (c) 2023 BJ Smith
@@ -19,3 +46,19 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## Contributing
+
+None
+
+## Tests
+
+None
+
+## Questions
+
+Created by: bryanjeremysmith
+
+GitHub: https://www.github.com/bryanjeremysmith
+
+Reach me with additional questions at: bryanjeremysmith@gmail.com
