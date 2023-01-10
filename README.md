@@ -21,6 +21,8 @@ git clone https://github.com/bryanjeremysmith/team-profile-generator.git
 
 <pre>npm start</pre>
 
+![team-profile-generator](https://user-images.githubusercontent.com/113069298/211668355-618fa57b-8763-4120-8e67-5c2ca087b61b.png)
+
 ## License 
 
 This project is covered under the following license: MIT License
