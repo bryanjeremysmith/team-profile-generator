@@ -31,7 +31,7 @@ None
 
 ## Tests
 
-<pre>node test</pre>
+<pre>npm test</pre>
 
 ## Questions
 
