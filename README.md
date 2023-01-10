@@ -23,6 +23,8 @@ git clone https://github.com/bryanjeremysmith/team-profile-generator.git
 
 ![team-profile-generator](https://user-images.githubusercontent.com/113069298/211668355-618fa57b-8763-4120-8e67-5c2ca087b61b.png)
 
+[team-profile-generator-walkthrough.webm](https://user-images.githubusercontent.com/113069298/211673314-c315110a-5b8d-4564-89a2-da7a8f868b07.webm)
+
 ## License 
 
 This project is covered under the following license: MIT License
